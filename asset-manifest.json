@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/frontend-projects/static/css/main.d11ff205.chunk.css",
-    "main.js": "/frontend-projects/static/js/main.f1f355d4.chunk.js",
-    "main.js.map": "/frontend-projects/static/js/main.f1f355d4.chunk.js.map",
-    "runtime-main.js": "/frontend-projects/static/js/runtime-main.80e9366a.js",
-    "runtime-main.js.map": "/frontend-projects/static/js/runtime-main.80e9366a.js.map",
-    "static/js/2.1dedd341.chunk.js": "/frontend-projects/static/js/2.1dedd341.chunk.js",
-    "static/js/2.1dedd341.chunk.js.map": "/frontend-projects/static/js/2.1dedd341.chunk.js.map",
-    "index.html": "/frontend-projects/index.html",
-    "static/css/main.d11ff205.chunk.css.map": "/frontend-projects/static/css/main.d11ff205.chunk.css.map",
-    "static/js/2.1dedd341.chunk.js.LICENSE.txt": "/frontend-projects/static/js/2.1dedd341.chunk.js.LICENSE.txt",
-    "static/media/beep.2af29179.mp3": "/frontend-projects/static/media/beep.2af29179.mp3"
+    "main.css": "/timer/static/css/main.d11ff205.chunk.css",
+    "main.js": "/timer/static/js/main.f1f355d4.chunk.js",
+    "main.js.map": "/timer/static/js/main.f1f355d4.chunk.js.map",
+    "runtime-main.js": "/timer/static/js/runtime-main.daef7d30.js",
+    "runtime-main.js.map": "/timer/static/js/runtime-main.daef7d30.js.map",
+    "static/js/2.1dedd341.chunk.js": "/timer/static/js/2.1dedd341.chunk.js",
+    "static/js/2.1dedd341.chunk.js.map": "/timer/static/js/2.1dedd341.chunk.js.map",
+    "index.html": "/timer/index.html",
+    "static/css/main.d11ff205.chunk.css.map": "/timer/static/css/main.d11ff205.chunk.css.map",
+    "static/js/2.1dedd341.chunk.js.LICENSE.txt": "/timer/static/js/2.1dedd341.chunk.js.LICENSE.txt",
+    "static/media/beep.2af29179.mp3": "/timer/static/media/beep.2af29179.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.80e9366a.js",
+    "static/js/runtime-main.daef7d30.js",
     "static/js/2.1dedd341.chunk.js",
     "static/css/main.d11ff205.chunk.css",
     "static/js/main.f1f355d4.chunk.js"
