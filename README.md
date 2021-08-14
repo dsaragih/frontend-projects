@@ -2,4 +2,7 @@
 
 ## Links to pages:
 - [Timer](https://codepen.io/moronovich/full/ZEKxyGN)
-- 
+- [Calculator](https://codepen.io/moronovich/full/oNWJRPY)
+- [Drum Machine](https://yet2frag.github.io/frontend-projects/)
+- [Quote Generator](https://codepen.io/moronovich/full/OJmQwME)
+- [Markdown to HTML](https://codepen.io/moronovich/full/RwVQqPL)
