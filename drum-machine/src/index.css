@@ -1,0 +1,77 @@
+@font-face {
+  font-family: digital;
+  src: url(digital7.ttf);
+}
+
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+#drum-machine {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border: 4px solid rgb(255, 194, 103);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
+  height: 300px;
+  background-color: rgb(198, 210, 220);
+}
+
+#board {
+  flex: 55%;
+  margin-left: -20px;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.drum-pad {
+  width: 25%;
+  margin: 2px;
+  border-radius: 10px;
+  background-color: rgb(36, 36, 36);
+  color: wheat;
+  font-size: 1.3em;
+}
+
+#display {
+  background-color: lavender;
+  flex: 1;
+  text-align: right;
+  width: 90%;
+  height: 50px;
+  padding: 10px;
+  font-size: 1.9em;
+  font-family: digital;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#controls {
+  flex: 45%;
+  justify-content: space-around;
+  margin-left: 10px;
+}
+
+#switch {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-left: calc(50% - 30px); 
+  margin-bottom: 20px;
+  align-self: flex-start;
+  text-align: center;
+}
+
+.MuiSlider-root {
+    color: antiquewhite;
+}
+
+.MuiTypography-body1 {
+    color: black;
+}
