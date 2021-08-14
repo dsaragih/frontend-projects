@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo);
+
+body {
+  background-color: #dcedc1;
+}
+
+#container {
+  margin: 20px auto;
+  padding: 25px;
+  height: 640px;
+}
+
+#editor {
+  display: block;
+  background-color: #f1f2ef;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 600px;
+  padding: 15px;
+  font-size: 1.2em;
+  float: left;
+}
+
+#preview {
+  width: 55%;
+  font-size: 1.2em;
+  font-family: 'Arimo';
+  border: 2px solid black;
+  background-color: #ffffff;
+  padding: 15px;
+  float: right;
+  height: 600px;
+  overflow: auto;
+}
+
+#preview img {
+  max-width: 90%;
+}
